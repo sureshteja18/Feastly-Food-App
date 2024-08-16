@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/feastly-food-app/static/css/main.131c5092.css",
+    "main.js": "/feastly-food-app/static/js/main.4a832749.js",
+    "static/js/145.22fd14b3.chunk.js": "/feastly-food-app/static/js/145.22fd14b3.chunk.js",
+    "static/js/787.2fb9c31f.chunk.js": "/feastly-food-app/static/js/787.2fb9c31f.chunk.js",
+    "index.html": "/feastly-food-app/index.html",
+    "main.131c5092.css.map": "/feastly-food-app/static/css/main.131c5092.css.map",
+    "main.4a832749.js.map": "/feastly-food-app/static/js/main.4a832749.js.map",
+    "145.22fd14b3.chunk.js.map": "/feastly-food-app/static/js/145.22fd14b3.chunk.js.map",
+    "787.2fb9c31f.chunk.js.map": "/feastly-food-app/static/js/787.2fb9c31f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.131c5092.css",
+    "static/js/main.4a832749.js"
+  ]
+}
